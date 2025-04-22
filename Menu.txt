@@ -1,0 +1,8 @@
+Kita Cafe is a very popular cafe in India.
+Its Menu are:
+
+1. Classic Croissant – ₹60
+
+2. Avocado Toast – ₹150
+
+3. English Breakfast Platter – ₹250
